@@ -1,8 +1,5 @@
 package com.stackroute.unitTest;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-
 public class PalindromeMS {
 
     public String palindrome(long indata)

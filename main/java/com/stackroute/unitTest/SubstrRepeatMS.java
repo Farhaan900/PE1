@@ -1,9 +1,5 @@
 package com.stackroute.unitTest;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class SubstrRepeatMS {
 
         public String substrRepeatMS(String indata1,int indata2){

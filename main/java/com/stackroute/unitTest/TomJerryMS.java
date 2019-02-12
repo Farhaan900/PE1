@@ -1,9 +1,5 @@
 package com.stackroute.unitTest;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-
-
 public class TomJerryMS {
 
        public String tomJerry (int indata) {
